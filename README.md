@@ -4,7 +4,7 @@
 
 - :notebook: Estudiante de Ingenieria en Informatica.
 
-- :desktop_computer: Realizando cursos de programacion web, siempre perfeccionandome. 
+- :desktop_computer: Realizando cursos de programacion web, siempre aprendiendo y perfeccionandome. 
 
 ### 💬 Cualquier consulta con respecto al codigo de los proyectos o sugerencias a:
 
